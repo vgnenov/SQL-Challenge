@@ -19,3 +19,6 @@ Once a complete database is assembled an analysis of the following information i
 - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name
 
 ## Results
+
+### ERD Table 
+![Screenshot](Screenshots/ERDTables.jpg "Screenshot")
