@@ -22,9 +22,12 @@ Once a complete database is assembled an analysis of the following information i
 
 ### ERD Table 
 ![Screenshot](Screenshots/ERDTables.jpg "Screenshot")
+![Screenshot](Screenshots/Tables.JPG "Screenshot")
 
 ### Employee Salary Distribution
 ![Screenshot](Screenshots/SalDist.jpg "Screenshot")
 
 ### Average Salary by Title
 ![Screenshot](Screenshots/SalByTitle.JPG "Screenshot")
+
+
