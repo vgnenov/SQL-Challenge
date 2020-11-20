@@ -26,5 +26,5 @@ Once a complete database is assembled an analysis of the following information i
 ### Employee Salary Distribution
 ![Screenshot](Screenshots/SalDist.jpg "Screenshot")
 
-### Employee Salary Distribution
+### Average Salary by Title
 ![Screenshot](Screenshots/SalByTitle.JPG "Screenshot")
